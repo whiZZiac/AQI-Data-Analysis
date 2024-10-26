@@ -27,9 +27,9 @@ The Random Forest model, selected after hyperparameter tuning, demonstrated stro
 These metrics confirm the model’s capability to generalize well to unseen data, making it a reliable tool for AQI prediction.
 
 ## Files and Structure
-- **data/**: Contains the cleaned and processed data used for analysis.
+- **data/**: The original dataset is available from Kaggle (see the link below). The cleaned and processed data used for analysis will be generated in this directory after running the preprocessing steps in the notebooks.
 - **notebooks/**: Jupyter notebooks for data exploration, preprocessing, and model training.
-- **plots/**: Visualizations generated during the analysis, such as box plots, scatter plots, and correlation matrices.
+- **plots/**: Directory for generated visualizations (e.g., box plots, scatter plots, and correlation matrices) created during the analysis.
 - **README.md**: Project overview and usage instructions.
 
 ## Dataset
@@ -42,7 +42,16 @@ The dataset used in this project, "Air Quality Data in India (2015-2020)," can b
 3. Open the Jupyter notebooks in the `notebooks/` directory to review the analysis and model training.
 4. Run each notebook cell to reproduce the analysis and results.
 
+### Usage Instructions
+1. Run the notebooks in the `notebooks/` folder sequentially to perform data preprocessing, analysis, and model training.
+2. The visualizations will be saved in the `plots/` directory after execution.
+
 ---
 
 This README provides a concise yet informative overview of the project, guiding users through its purpose, methodology, results, and usage.
+
+---
+
+
+
 
