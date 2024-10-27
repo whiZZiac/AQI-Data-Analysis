@@ -38,13 +38,13 @@ The dataset used in this project, "Air Quality Data in India (2015-2020)," can b
 
 ## Instructions
 1. Clone this repository to your local machine.
-2. Download the dataset from the provided Kaggle link and place it in the `data/` directory.
-3. Open the Jupyter notebooks in the `notebooks/` directory to review the analysis and model training.
+2. Download the dataset from the provided Kaggle link and place it in the `data` directory.
+3. Open the Jupyter notebooks in the `notebooks` directory to review the analysis and model training.
 4. Run each notebook cell to reproduce the analysis and results.
 
 ### Usage Instructions
-1. Run the notebooks in the `notebooks/` folder sequentially to perform data preprocessing, analysis, and model training.
-2. The visualizations will be saved in the `plots/` directory after execution.
+1. Run the notebooks in the `notebooks` folder sequentially to perform data preprocessing, analysis, and model training.
+2. The visualizations will be saved in the `plots` directory after execution.
 
 ---
 
