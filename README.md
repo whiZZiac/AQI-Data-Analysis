@@ -27,9 +27,9 @@ The Random Forest model, selected after hyperparameter tuning, demonstrated stro
 These metrics confirm the model’s capability to generalize well to unseen data, making it a reliable tool for AQI prediction.
 
 ## Files and Structure
-- **data/**: The original dataset is available from Kaggle (see the link below). The cleaned and processed data used for analysis will be generated in this directory after running the preprocessing steps in the notebooks.
-- **notebooks/**: Jupyter notebooks for data exploration, preprocessing, and model training.
-- **plots/**: Directory for generated visualizations (e.g., box plots, scatter plots, and correlation matrices) created during the analysis.
+- **`data`**: The original dataset is available from Kaggle (see the link below). The cleaned and processed data used for analysis will be generated in this directory after running the preprocessing steps in the notebooks.
+- **`notebooks`**: Jupyter notebooks for data exploration, preprocessing, and model training.
+- **`plots`**: Directory for generated visualizations (e.g., box plots, scatter plots, and correlation matrices) created during the analysis.
 - **README.md**: Project overview and usage instructions.
 
 ## Dataset
